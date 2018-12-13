@@ -6,3 +6,4 @@ Over the next few days, I intend to:
 - Write Python script to systematically parse through the data (instead of code snippets spread out across .py files)
 - Add features to that Python script to graph data within the same code
 - Upload the [number].txt files necessary to run webscrape.py
+- Upload the bios113.csv file

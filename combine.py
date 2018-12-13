@@ -9,6 +9,7 @@ for congress in range(107, 114):
 				length = len(line)
 			if (line[0] == "Name"):
 				continue
+			#Add congress number to the dataset
 			if (len(line) == length):
 				line.append(str(congress))
 			else:
@@ -17,6 +18,7 @@ for congress in range(107, 114):
 			#print(line)
 #print(all_entries)
 
+#Consolidate duplicates
 for i in range(0, len(all_entries)):
 	if (i < len(all_entries)):
 		current_id = all_entries[i][1]
@@ -27,11 +29,13 @@ for i in range(0, len(all_entries)):
 				all_entries.remove(all_entries[j])
 		all_entries[i][length] = congress_array
 
+#Fix mistake in datasets that ignores M.P._ for every _ other than H
 for i in range(0, len(all_entries)):
 	print(all_entries[i][1])
 	if (all_entries[i][1]).find("M.P.") > 0:
 		all_entries[i][10] = 1
 
+#count degrees for each Congress
 for congress in range(107, 114):
 	count = 0
 	jd_count = 0

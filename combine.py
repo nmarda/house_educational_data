@@ -10,13 +10,22 @@ for congress in range(107, 114):
 			if (line[0] == "Name"):
 				continue
 			if (len(line) == length):
-				line.append(congress)
+				line.append(str(congress))
 			else:
-				line[13] = congress
+				line[length] = str(congress)
 			all_entries.append(line)
-			all_entries[-1].append(congress)
 			#print(line)
 print(all_entries)
+
+for i in range(0, len(all_entries)):
+	if (i < len(all_entries)):
+		current_id = all_entries[i][1]
+		congress_array = [all_entries[i][length]]
+		for j in range(i+1, len(all_entries)):
+			if (j < len(all_entries) and all_entries[j][1] == current_id):
+				congress_array.append(all_entries[j][length])
+				all_entries.remove(all_entries[j])
+		all_entries[i][length] = congress_array
 
 with open('bios_combined.csv', mode='w') as writeFile:
     fieldnames = ['Name', 'Bio', 'Identifier', 'B.A.', 'B.S.', 'J.D.', 'Ph.D.', 'M.B.A', 'M.A.', 'M.S.', 'M.P.H.', 'M.D.', 'D.M.D.', 'Congress']

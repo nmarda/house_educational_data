@@ -8,3 +8,4 @@ Over the next few days, I intend to:
 - Upload the [number].txt files necessary to run webscrape.py
 - Upload the bios113.csv file
 - Go through each Congress and add missing data + remove members from special elections (they are mostly removed right now, but some files don't have 435 entries)
+- Add details on how to use the programs to the README file

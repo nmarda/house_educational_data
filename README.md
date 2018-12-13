@@ -7,3 +7,4 @@ Over the next few days, I intend to:
 - Add features to that Python script to graph data within the same code
 - Upload the [number].txt files necessary to run webscrape.py
 - Upload the bios113.csv file
+- Go through each Congress and add missing data + remove members from special elections (they are mostly removed right now, but some files don't have 435 entries)

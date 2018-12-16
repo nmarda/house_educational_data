@@ -1,0 +1,101 @@
+Name,Bio,Identifier,BA,BS,JD,PhD,MBA,MA ,MS,MPA/MPP/MPH,MD,Other Masters
+Andy Levin,Michigan,1,1,0,1,0,0,1,0,0,0,0
+Chip Roy,Texas,2,0,1,1,0,0,0,1,0,0,0
+Harley Rouda Jr,California,3,1,0,1,0,1,0,0,0,0,0
+John Rose,Tennessee,4,0,1,1,0,0,0,1,0,0,0
+Mikie Sherrill,New Jersey,5,0,1,1,0,0,0,1,0,0,0
+William Timmons,South Carolina,6,1,0,1,0,0,1,0,0,0,0
+Abigail Spanberger,Virginia,7,1,0,0,0,1,0,0,0,0,0
+Anthony Gonzalez,Ohio,8,1,0,0,0,1,0,0,0,0,0
+Chrissy Houlahan,Pennsylvania,9,0,1,0,0,0,0,1,0,0,0
+Cindy Axne,Iowa,10,1,0,0,0,1,0,0,0,0,0
+Dan Crenshaw,Texas,11,1,0,0,0,0,0,0,1,0,0
+David Trone,Maryland,12,1,0,0,0,1,0,0,0,0,0
+Dean Phillips,Minnesota,13,1,0,0,0,1,0,0,0,0,0
+Debbie Mucarsel-Powell,Florida,14,1,0,0,0,0,1,0,0,0,0
+Donna Shalala,Florida,15,1,0,0,1,0,1,0,0,0,0
+Dusty Johnson,South Dakota,16,1,0,0,0,0,0,0,1,0,0
+Elaine Luria,Virginia,17,0,1,0,0,0,0,1,0,0,0
+Elissa Slotkin,Michigan,18,1,0,0,0,0,1,0,0,0,0
+Gil Cisneros,California,19,1,0,0,0,1,1,0,0,0,0
+Greg Gianforte,Montana,20,0,1,0,0,0,0,1,0,0,0
+Greg Pence,Indiana,21,1,0,0,0,1,0,0,0,0,0
+Haley Stevens,Michigan,22,1,0,0,0,0,1,0,0,0,0
+Jeff Van Drew,New Jersey,23,0,1,0,0,0,0,0,0,0,1
+Jesus Garcia,Illinois,24,1,0,0,0,0,0,0,1,0,0
+Jim Baird,Indiana,25,0,1,0,1,0,0,1,0,0,0
+Jimmy Gomez,California,26,1,0,0,0,0,0,0,1,0,0
+John Joyce,Pennsylvania,27,0,1,0,0,0,0,0,0,1,0
+Josh Harder,California,28,1,0,0,0,1,0,0,1,0,0
+Katie Hill,California,29,1,0,0,0,0,0,0,1,0,0
+Kevin Hern,Oklahoma,30,0,1,0,0,1,0,0,0,0,0
+Kim Schrier,Washington,31,0,1,0,0,0,0,0,0,1,0
+Lauren Underwood,Illinois,32,0,1,0,0,0,0,1,1,0,0
+Mark Green,Tennessee,33,0,1,0,0,0,1,0,0,1,0
+Max Rose,New York,34,1,0,0,0,0,0,1,0,0,0
+Ron Estes,Kansas,35,0,1,0,0,1,0,0,0,0,0
+Russ Fulcher,Idaho,36,1,0,0,0,1,0,0,0,0,0
+Sean Casten,Illinois,37,1,0,0,0,0,0,1,0,0,0
+Steve Watkins,Kansas,38,0,1,0,0,0,0,1,1,0,0
+Susie Lee,Nevada,39,1,0,0,0,0,0,1,0,0,0
+TJ Cox,California,40,0,1,0,0,1,0,0,0,0,0
+Tom Malinowski,New Jersey,41,1,0,0,0,0,1,0,0,0,0
+Van Taylor,Texas,42,1,0,0,0,1,0,0,0,0,0
+Veronica Escobar,Texas,43,1,0,0,0,0,1,0,0,0,0
+Abby Finkenauer,Iowa,44,1,0,0,0,0,0,0,0,0,0
+Alexandria Ocasio-Cortez,New York,45,1,0,0,0,0,0,0,0,0,0
+Angie Craig,Minnesota,46,1,0,0,0,0,0,0,0,0,0
+Anthony Brindisi,New York,47,1,0,1,0,0,0,0,0,0,0
+Antonio Delgado,New York,48,1,0,1,0,0,0,0,0,0,0
+Ayanna Pressley,Massachusetts,49,0,0,0,0,0,0,0,0,0,0
+Ben Cline,Virginia,50,1,0,1,0,0,0,0,0,0,0
+Ben McAdams,Utah,51,1,0,1,0,0,0,0,0,0,0
+Bryan Steil,Wisconsin,52,0,1,1,0,0,0,0,0,0,0
+Carol Miller,West Virginia,53,1,0,0,0,0,0,0,0,0,0
+Chris Pappas,New Hampshire,54,1,0,0,0,0,0,0,0,0,0
+Colin Allred,Texas,55,1,0,1,0,0,0,0,0,0,0
+Conor Lamb,Pennsylvania,56,1,0,1,0,0,0,0,0,0,0
+Dan Meuser,Pennsylvania,57,1,0,0,0,0,0,0,0,0,0
+Deb Haaland,New Mexico,58,1,0,1,0,0,0,0,0,0,0
+Debbie Lesko,Arizona,59,1,0,0,0,0,0,0,0,0,0
+Denver Riggleman,Virginia,60,1,0,0,0,0,0,0,0,0,0
+Ed Case,Hawaii,61,1,0,1,0,0,0,0,0,0,0
+Greg Stanton,Arizona,62,1,0,1,0,0,0,0,0,0,0
+Greg Steube,Florida,63,0,1,1,0,0,0,0,0,0,0
+Guy Reschenthaler,Pennsylvania,64,1,0,1,0,0,0,0,0,0,0
+Ilhan Omar,Minnesota,65,1,0,0,0,0,0,0,0,0,0
+Jared Golden,Maine,66,1,0,0,0,0,0,0,0,0,0
+Jason Crow,Colorado,67,1,0,1,0,0,0,0,0,0,0
+Jennifer Wexton,Virginia,68,1,0,1,0,0,0,0,0,0,0
+Jim Hagedorn,Minnesota,69,1,0,0,0,0,0,0,0,0,0
+Joe Cunningham,South Carolina,70,0,1,1,0,0,0,0,0,0,0
+Joe Morelle,New York,71,1,0,0,0,0,0,0,0,0,0
+Joe Neguse,Colorado,72,1,0,1,0,0,0,0,0,0,0
+"John Curtis, R-Utah",Utah,73,0,1,0,0,0,0,0,0,0,0
+Katie Porter,California,74,1,0,1,0,0,0,0,0,0,0
+Kelly Armstrong,North Dakota,75,1,0,1,0,0,0,0,0,0,0
+Kendra Horn,Oklahoma,76,1,0,1,0,0,0,0,0,0,0
+Lance Gooden,Texas,77,1,0,0,0,0,0,0,0,0,0
+Lizzie Fletcher,Texas,78,1,0,1,0,0,0,0,0,0,0
+Lori Trahan,Massachusetts,79,1,0,0,0,0,0,0,0,0,0
+Lucy McBath,Georgia,80,1,0,0,0,0,0,0,0,0,0
+Madeleine Dean,Pennsylvania,81,1,0,1,0,0,0,0,0,0,0
+Mary Gay Scanlon,Pennsylvania,82,1,0,1,0,0,0,0,0,0,0
+Michael Cloud,Texas,83,0,1,0,0,0,0,0,0,0,0
+Michael Guest,Mississippi,84,0,1,1,0,0,0,0,0,0,0
+Michael Waltz,Florida,85,0,1,0,0,0,0,0,0,0,0
+Mike Levin,California,86,1,0,1,0,0,0,0,0,0,0
+Ralph Norman,South Carolina,87,0,1,0,0,0,0,0,0,0,0
+Rashida Tlaib,Michigan,88,1,0,1,0,0,0,0,0,0,0
+Ron Wright,Texas,89,0,0,0,0,0,0,0,0,0,0
+Ross Spano,Florida,90,1,0,1,0,0,0,0,0,0,0
+Sharice Davids,Kansas,91,1,0,1,0,0,0,0,0,0,0
+Steven Horsford,Nevada,92,1,0,0,0,0,0,0,0,0,0
+Susan Wild,Pennsylvania,93,1,0,1,0,0,0,0,0,0,0
+Sylvia Garcia,Texas,94,1,0,1,0,0,0,0,0,0,0
+Tim Burchett,Tennessee,95,0,1,0,0,0,0,0,0,0,0
+Troy Balderson,Ohio,96,0,0,0,0,0,0,0,0,0,0
+Pete Stauber,Minnesota,97,1,0,0,0,0,0,0,0,0,0
+Andy Kim,New Jersey,98,1,0,0,1,0,0,0,0,0,1
+Jahana Hayes,Connecticut,99,1,0,0,0,0,1,0,0,0,1
+Xochitl Torres Small,New Mexico,100,1,0,1,0,0,0,0,0,0,0

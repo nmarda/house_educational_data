@@ -1,4 +1,4 @@
-import csv
+import csv, os
 all_entries = []
 length = 0
 start_congress = 107 #The first congress to include
@@ -6,7 +6,7 @@ end_congress = 116 #The last congress to include
 
 count =0
 for congress in range(start_congress, end_congress + 1):
-	with open("bios" + str(congress) + ".csv", "r") as file:
+	with open("other_data//bios" + str(congress) + ".csv", "r") as file:
 		csv_reader = csv.reader(file, delimiter = ',')
 		for line in csv_reader:
 			if (length == 0):
